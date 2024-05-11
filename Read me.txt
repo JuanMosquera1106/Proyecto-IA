@@ -1,0 +1,6 @@
+Pasos: (programa utilizado: Jupyter) 
+Posicionar archivos "1) Recortamiento Datos" y "2) Preprocesamiento de datos" en una misma carpeta.
+Con el archivo EDG_1990_2021.sav dentro de la misma carpeta
+
+1) Correr el Kernel completo del archivo 1) Recortamiento Datos
+2) Correr el Kernel completo del archivo 2) Preprocesamiento de datos
